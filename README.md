@@ -1,4 +1,4 @@
-# Hi, I’m Rishit Khandelwal ![Wave animation](wave.gif)
+# Hi, I’m Rishit Khandelwal <img src="wave.gif" alt="Waving hand" width="24">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishitkh-blue?logo=linkedin)](https://www.linkedin.com/in/rishitkh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rishit02-black?logo=github)](https://github.com/Rishit02)
