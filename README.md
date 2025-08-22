@@ -23,11 +23,6 @@ I build scalable software, deploy ML models, and prototype quantitative-trading 
 | **Property-Price Mobile App** | React Native · Flask | Achieved **R² = 0.97** with ensemble ML; full-stack deployment. |
 | **JavaFX Appointment Manager** | Java · Gradle · GitHub Actions | 60 K-line GUI app with CI/CD, MVC architecture, and Codecov gating. |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishit02&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit02&layout=compact&hide=jupyter%20notebook" height="165">
-</p>
-
 ## 📚 Education
 **National University of Singapore** — B.Comp. (Hons) Computer Science, AI and Algos Focus  
 GPA 4.23/5.00 · Coursework: DSA · Software Eng · OS · Networks · ML · CV · Parallel Computing
